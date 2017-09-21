@@ -1,0 +1,31 @@
+{
+  "name": "jkchksum",
+  "version": "1.0.1",
+  "description": "jenkins checksum",
+  "main": "lib/index.js",
+  "preferGlobal": "true",
+  "bin":{
+    "jkchksum": "./bin/index-module.js"
+  },
+  "scripts": {
+    "test": "node ./bin/index-module.js store config"
+  },
+  "keywords": [],
+  "author": "kmorfin",
+  "license": "ISC",
+  "devDependencies": {
+    "eslint": "^4.7.0",
+    "gulp": "^3.9.1",
+    "gulp-beautify": "^2.0.1",
+    "gulp-eslint": "^4.0.0",
+    "gulp-watch": "^4.3.11"
+  },
+  "dependencies": {
+    "checksum": "^0.1.1",
+    "config": "^1.26.2",
+    "fs": "0.0.1-security",
+    "jsonfile": "^4.0.0",
+    "promise": "^8.0.1",
+    "regex": "^0.1.1"
+  }
+}

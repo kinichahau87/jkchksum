@@ -1,0 +1,10 @@
+{
+  "ignore":[
+    "images",
+    "Images",
+    "[{a-z}]*\\.png",
+    "bin",
+    "[{a-zA-Z}]*\\.dll"
+  ],
+  "checksumFile":"build_checksum.json"
+}
