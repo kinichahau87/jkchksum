@@ -1,3 +1,5 @@
+[![https://nodei.co/npm/jkchksum.png?downloads=true&downloadRank=true&stars=true](https://nodei.co/npm/jkchksum.png?downloads=true&downloadRank=true&stars=true)](https://www.npmjs.com/package/jkchksum)
+
 JENKINS CHECKSUM TOOL
 =============================
 
