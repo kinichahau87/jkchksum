@@ -1,16 +1,20 @@
 {
   "name": "jkchksum",
   "version": "1.0.1",
-  "description": "jenkins checksum",
+  "description": "jenkins checksum tool for windows deployments.",
   "main": "lib/index.js",
   "preferGlobal": "true",
+  "repository":{
+    "type": "git",
+    "url":"https://github.com/kinichahau87/jkchksum.git"
+  },
   "bin":{
     "jkchksum": "./bin/index-module.js"
   },
   "scripts": {
-    "test": "node ./bin/index-module.js store config"
+    "test": "node ./bin/index-module.js compare C:\\Users\\kmorfin\\Documents\\Node\\apps\\mysqlClient\\src"
   },
-  "keywords": [],
+  "keywords": ["jenkins", "checksum"],
   "author": "kmorfin",
   "license": "ISC",
   "devDependencies": {
