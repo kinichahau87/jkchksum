@@ -12,7 +12,8 @@
     "jkchksum": "./bin/index-module.js"
   },
   "scripts": {
-    "test": "nyc mocha && nyc report --reporter=text-lcov | coveralls"
+    "test": "nyc mocha && nyc report --reporter=text-lcov | coveralls",
+    "test-norep": "nyc mocha"
   },
   "keywords": [
     "jenkins",
