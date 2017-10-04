@@ -2,3 +2,5 @@ node_modules
 build_checksum.json
 gulpfile.js
 .eslintrc.json
+.nyc_output
+coverage
