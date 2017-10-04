@@ -4,3 +4,4 @@ gulpfile.js
 .eslintrc.json
 .nyc_output
 coverage
+.coveralls.yml

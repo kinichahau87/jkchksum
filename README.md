@@ -1,5 +1,7 @@
 [![https://nodei.co/npm/jkchksum.png?downloads=true&downloadRank=true&stars=true](https://nodei.co/npm/jkchksum.png?downloads=true&downloadRank=true&stars=true)](https://www.npmjs.com/package/jkchksum)
 
+[![Coverage Status](https://coveralls.io/repos/github/kinichahau87/jkchksum/badge.svg?branch=master)](https://coveralls.io/github/kinichahau87/jkchksum?branch=master)
+
 JENKINS CHECKSUM TOOL
 =============================
 
