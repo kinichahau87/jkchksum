@@ -1,6 +1,6 @@
 {
   "name": "jkchksum",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "jenkins checksum tool for windows deployments.",
   "main": "lib/index.js",
   "preferGlobal": "true",
